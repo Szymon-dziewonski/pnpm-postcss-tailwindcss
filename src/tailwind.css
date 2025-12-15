@@ -1,0 +1,7 @@
+@import "@storefront-ui/vue/tailwind-config.css";
+
+@import "tailwindcss";
+
+@source './**/*.vue';
+@source './**/*.ts';
+@source '../node_modules/@storefront-ui/vue';
